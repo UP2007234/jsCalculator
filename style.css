@@ -1,3 +1,16 @@
 * {
     font-size: 100%;
 }
+
+#Calculator {
+    border: 0.1em solid black;
+    text-align: center;
+}
+
+.calcBtn {
+    font-size: 125%;
+    display: inline-flex;
+    border: 1em thick black;
+    padding: 1em;
+    margin: 0.4vh;
+}
